@@ -21,3 +21,18 @@
 	top: 20px;
 	height: 40px;
 }
+.display input {
+	position: relative;
+	left: 2px;
+	top: 2px;
+	height: 30px;
+	width: 210px;
+	background-color: #bccd95;
+	font-size: 21px;
+	text-align: right;
+}
+/* Calculator Buttons */
+.keys {
+	position: relative;
+	top: 15px;
+}
